@@ -1,5 +1,7 @@
 # android-notes
 
+https://stackoverflow.com/questions/55970137/bypass-androids-hidden-api-restrictions
+
 `platform_frameworks_base/core/java/android/app/backup`
 
 re: State of android backup solutions
