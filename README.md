@@ -1,5 +1,8 @@
+Device 2 Device (D2D) Migrations API's?
 
-https://play.google.com/store/apps/details?id=com.google.android.apps.pixelmigrate&hl=en_US&gl=US&pli=1
+https://play.google.com/store/apps/details?id=com.google.android.apps.pixelmigrate
+
+
 # android-notes
 
 
