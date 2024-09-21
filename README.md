@@ -1,6 +1,20 @@
 # android-notes
 
+re: State of android backup solutions
 
+https://github.com/crass/seedvault_backup_parser
+
+https://web.archive.org/web/20231127092318/https://hub.libranet.de/wiki/graphene-os/wiki/Backups
+
+https://doc.e.foundation/pages/backup-and-restore-with-twrp#making-a-nandroid-backup-of-your-device
+
+https://calyxinstitute.org/projects/seedvault-encrypted-backup-for-android
+
+https://android.stackexchange.com/questions/250944/how-to-make-a-full-local-backup-of-my-phone
+
+https://github.com/NeoApplications/Neo-Backup
+
+in-app auto backups + https://github.com/Catfriend1/syncthing-android
 """
 
 TWRP depends on the "vendor" partition. The vendor partition on Android devices contains all of the kernel modules, driver libraries, firmware blobs, config files and more, which are needed to support the hardware inside a given device. These are various bits, which are provided by the various component manufacturers, which are needed to make all the components work properly. In the early days these files were spread throughout the Android file system, but as more open source Android efforts emerged, it became practical for Google to require that OEMs separate these bits from the rest, and put them on a partition dedicated to the task. Thus we have the “vendor” partition, used by every open source project, not the least of which is Google’s own AOSP effort, to provide support for, and compatibility with a given device.
