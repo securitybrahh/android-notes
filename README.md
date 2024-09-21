@@ -1,5 +1,9 @@
 # android-notes
-https://github.com/aosp-mirror/platform_frameworks_base/tree/master/core/java/com/android/internal/backup
+
+
+https://android.googlesource.com/platform/frameworks/base/+/refs/heads/main/core/java/com/android/internal/backup/
+
+https://android.googlesource.com/platform/frameworks/base/+/refs/heads/main/core/java/android/app/backup
 
 
 https://stackoverflow.com/questions/55970137/bypass-androids-hidden-api-restrictions
