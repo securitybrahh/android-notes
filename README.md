@@ -2,6 +2,7 @@ Device 2 Device (D2D) Migrations API's?
 
 https://play.google.com/store/apps/details?id=com.google.android.apps.pixelmigrate
 
+https://developer.android.com/about/versions/12/behavior-changes-12#backup-restore
 
 # android-notes
 
