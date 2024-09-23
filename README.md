@@ -92,3 +92,14 @@ https://www.reddit.com/r/Pixel6/comments/r8ylqf/comment/i2u2n0p/
 https://github.com/nlitsme/riscv-isa-sim-titanM2
 
 EDL mode http://xiaomitips.com/download/qualcomm-qdloader-usb-drivers/
+
+
+# MPR
+
+Apple Relay covers emajl and browser dns, unencrypted app traffic, email ip tracing etc.
+
+GOS only has TOR as a relay for now.
+
+Safing didn't go through with Android client.
+
+Invisv MPR still works in Vivildi, no android?
