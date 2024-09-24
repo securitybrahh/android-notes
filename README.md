@@ -103,3 +103,9 @@ GOS only has TOR as a relay for now.
 Safing didn't go through with Android client.
 
 Invisv MPR still works in Vivildi, no android?
+
+# Backup
+
+root, backup, then go back to unroot.
+
+https://xdaforums.com/t/guide-to-lock-bootloader-while-using-rooted-grapheneos-magisk-root.4510295/page-5#post-88499289
